@@ -14,17 +14,19 @@ You can install these requirements with pip:
 
 ```bash
 pip install openai python-slugify schedule requests
-
+```
 ## Setup & Usage
 First, you need to clone this repository to your local machine. You can do this with the following command:
 
 ```bash
 git clone <repository-url>
+```
 
 Then navigate to the project directory:
 
 ```bash
 cd <project-directory>
+```
 
 Replace the placeholder values in the code with your specific details. For instance, you should replace:
 
@@ -36,6 +38,7 @@ Then, you can run the script using Python:
 
 ```bash
 python <script-name>.py
+```
 
 ## How it works
 The script works as follows:
